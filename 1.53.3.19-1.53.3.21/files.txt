@@ -1,0 +1,9 @@
+dlc_balkan_e.scs_patch
+dlc_balkan_w.scs_patch
+dlc_balt.scs_patch
+dlc_east.scs_patch
+dlc_fr.scs_patch
+dlc_greece.scs_patch
+dlc_iberia.scs_patch
+dlc_it.scs_patch
+dlc_north.scs_patch
